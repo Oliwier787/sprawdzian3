@@ -1,0 +1,19 @@
+header {
+    height: 30vh;
+    background-color: cornflowerblue;
+}
+main {
+    height: 50vh;
+    background-color: blue;
+}
+footer {
+    height: 20vh;
+    background-color: chartreuse;
+}
+.Obraz{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    align-items: center;
+    width: 300px;
+}
